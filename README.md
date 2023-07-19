@@ -1,0 +1,2 @@
+# TRABAJO FINAL - TPII
+Este trabajo tuvo como finalidad realizar un análisis espaciotemporal de la variabilidad anual de 11 índices de precipitación extrema (IPE) utilizando el método Sen y Mann-Kendall para evaluar visualmente la tendencia de cada uno de ellos. Además de emplear 6 índices océano-atmosféricos (IOA) para determinar su correlación con los 11 IPE, utilizando el método de Spearman con el fin de identificar el IOA que ejerce una mayor influencia en la región de estudio. 
